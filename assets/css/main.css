@@ -1,0 +1,14 @@
+body {
+	margin				: 0;
+	overflow			: hidden;
+	background-color	: black;
+}
+		
+#khaoz-game {
+	text-align: center;
+}
+		
+#khaoz-game > canvas {
+	margin		: 0 auto;
+	height		: 100%;
+}
